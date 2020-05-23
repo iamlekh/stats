@@ -2,4 +2,4 @@
 2. basic plot
 3. random numbers
 4. clt
-
+5. statistical distribution
