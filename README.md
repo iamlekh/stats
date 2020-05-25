@@ -3,3 +3,5 @@
 3. random numbers
 4. clt
 5. statistical distribution
+6. critical value
+7. corr and covariance
