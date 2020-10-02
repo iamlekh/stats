@@ -5,3 +5,6 @@
 5. statistical distribution
 6. critical value
 7. corr and covariance
+8. significance test
+9. effective size
+
